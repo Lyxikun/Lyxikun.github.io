@@ -1,0 +1,26 @@
+<script src="https://cdn.jsdelivr.net/npm/js-base64@3.7.5/base64.min.js"></script>
+
+</head>
+<style>
+input[type=text], select {
+  width: 70%;
+  padding: 4px 8px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+</style>
+
+<script>
+function base64decode()
+{
+var text = document.getElementById("txt");
+text.value=Base64.decode(text.value);
+}
+</script>
+
+<input type="text" id="txt" placeholder="input base64 code" claue="" class="searchbox"/>
+<input type="button" value="解码" name="btn" onclick="base64decode();" class="button" />
