@@ -48,7 +48,7 @@ window.onload = function () {
             }
         }
     };
-    xhr.open("GET", "https://lyxikun.github.io/index.json");
+    xhr.open("GET", "https://raw.githubusercontent.com/lyxikun/lyxikun.github.io/main/themes/PaperMod/layouts/_default/index.json");
     xhr.send();
 }
 
