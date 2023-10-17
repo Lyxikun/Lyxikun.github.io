@@ -24,7 +24,7 @@ draft: false
 
 {{<base64>}}
 
-将获取到的链接填入到图中给出的地方，点击保存即可
+将获取到的链接填入到图中给出的地方，更新间隔填30，点击保存即可
 4.接下来依照图示刷新一下配置
 ![更新订阅1](https://raw.githubusercontent.com/lyxikun/lyxikun.github.io/main/static/pics/HowToUseClashverge/pic4.png)
 ![更新订阅2](https://raw.githubusercontent.com/lyxikun/lyxikun.github.io/main/static/pics/HowToUseClashverge/pic5.png)
