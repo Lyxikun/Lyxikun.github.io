@@ -75,7 +75,7 @@ menu:
   main:
     - identifier: monitor
       name: 网络监控
-      url: https://stats.uptimerobot.com/KN2AgI8MA9
+      url: https://dash.liyuu.xyz/
       weight: 1
     - identifier: categories
       name: categories
