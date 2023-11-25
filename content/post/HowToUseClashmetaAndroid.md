@@ -9,7 +9,7 @@ draft: false
 
 ## 安装CLSAHMETAFORANDROID
 
-[点击这里下载CLASHMETAFORANDROID](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.8.9/cmfa-2.8.9-meta-universal-release.apk)
+[点击这里下载CLASHMETAFORANDROID](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/download/v2.9.0/cmfa-2.9.0-meta-universal-release.apk)
 
 ## 如何配置
 
